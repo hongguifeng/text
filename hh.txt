@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 dsadfaahdfdfsdfsdf
 ereaedawdsdf
 gdsfg
 
+=======
+dsadfwerqwererqerqeaahdferwerqewrwer
+dfadsfasdf
+>>>>>>> c52fade49f1985e7b787d6b18cdfd7b81d4b003d
